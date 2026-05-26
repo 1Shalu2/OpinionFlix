@@ -1,0 +1,13 @@
+📊 Model Accuracy Comparison:
+              Model  Accuracy
+ Bidirectional LSTM    0.8768
+               LSTM    0.8768
+Logistic Regression    0.6964
+      Random Forest    0.6640
+                RNN    0.5260
+        Naive Bayes    0.5078
+      TensorFlow NN    0.4962
+
+🏆 Best Model: Bidirectional LSTM
+✅ Accuracy: 0.8768
+📁 Saved as: best_model_bidirectional_lstm.keras
